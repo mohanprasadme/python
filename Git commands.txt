@@ -1,0 +1,17 @@
+command to connect the Git and git hub :
+
+
+open the command line interface type the below commad to connect 
+git config --global user.name "mohanprasadme
+git config --global user.email "mohanprasadme2015@gmail.com"
+
+git clone   -----command use to connect the github repository to  our local machine 
+
+
+git clone https://github.com/mohanprasadme/main.git
+
+git status ----- command to see the repo location
+
+git add .    -----command use to move the file in staging 
+git commit  -m "this is my first commit" ------- command to user  to local repo
+git push -u  origin main   ---------command use to push the file in remote repository
